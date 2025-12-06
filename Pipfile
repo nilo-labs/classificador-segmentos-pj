@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+notebook = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+plotly = "*"
+pingouin = "*"
+scikit-learn = "*"
+optuna = "*"
+gradio = "*"
+joblib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
