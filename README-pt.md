@@ -1,6 +1,15 @@
 # Classificador de Clientes PJ - Segmentação de Crédito com IA
 
-[🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
+<div align="left">
+  <img width="40" src="https://skillicons.dev/icons?i=py" alt="Python" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img width="40" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" />
+  <br><br>
+   
+   [🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
+</div>
 
 Este projeto de Machine Learning tem como objetivo classificar clientes corporativos (Pessoa Jurídica) de uma empresa de crédito em diferentes segmentos (**Starter, Bronze, Silver e Gold**). A classificação auxilia na tomada de decisões estratégicas e na oferta personalizada de produtos financeiros.
 
